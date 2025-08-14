@@ -1,0 +1,1 @@
+The font, dictionary and the tessdata including folder must be copied to the .exe directory when compiled
