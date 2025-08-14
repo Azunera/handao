@@ -1,8 +1,7 @@
 
-# Hanzi Faxian
+# Handao
 
-## Introduction:
-![Tux, the Linux mascot](/assets/images/example.png)
+![Example pf the project](/assets/images/example.png)
 Hanzi Faxian is a project for an app capable of in-live detection and definition of chinese characters through pop ups (both simplified and traditional).
 
 ### Future Planned Features
@@ -14,19 +13,20 @@ Hanzi Faxian is a project for an app capable of in-live detection and definition
 ## For Users 🙋
 ### Installation
 
-For install use this link to get the .zip for running hanzi_faxian, extract it on any desired folder, then run the .exe to activate it.
+For install use this link to get the .zip for the project: https://github.com/Azunera/handao/releases/download/v0.1/handao_v0.1.zip.
+Extract it on any desired folder, then run the .exe to activate it, it will open a terminal then where you will get the information of current program state. 
 Currently only a Windows version is available, if anyone needs a Linux or MacOS version im willing to make one.
 
 ### Usage
 A few seconds after running the program when it finishes loading, you can activate it by doing left control + alt + g while having your mouse over a chinese text. I particularly designed to be used over desktop apps and videogames, since there are more efficient and fast alternatives in major browsers, however it can still be usable.
 
-- **ctrl + alt + f**: Take a screenshot at mouse current position (F for FIND)
+- **ctrl + alt + f or left click**: Take a screenshot at mouse current position (F for FIND)
 - **ctrl + alt + g**: Deactivate the program, reducing a bit resource usage and enabling ctrl + alt + f for usage in other programs
 - **ctrl + alt + y**: Exit the program. If this happens to fail for any reason, open task manager and finish the task, then report the bug here: ""
 
 #### Why so annoying shortcuts?
 
-I've been trying to find a comfortable shortcuts, but most are a used by a lot of apps, so chose these which for the several apps I tested, all of them lacked functionality. Still I have to add a way to custom it. Also considering doing something like alt/ctrl + click but besides being already used, the app should be able to detect text over buttons you have notpressed
+I've been trying to find a comfortable shortcuts, but most are a used by a lot of apps, so chose these which for the several apps I tested, all of them lacked functionality. Still I have to add a way to custom it.
 
 ### Availability
 Currently only a Windows version is available.
