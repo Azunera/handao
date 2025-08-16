@@ -1,5 +1,5 @@
 
-# Handao
+# Handao / 汉道
 
 ![Example pf the project](/assets/images/example.png)
 Hanzi Faxian is a project for an app capable of in-live detection and definition of chinese characters through pop ups (both simplified and traditional).
